@@ -1,1 +1,1 @@
-# c-multilevel  password aunthetication is a CLI writeen in c++ which use multiple steps to log you in 
+# c-multilevel  password aunthetication is a CLI written in c++ which use multiple steps to log you in 
